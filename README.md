@@ -15,4 +15,7 @@ with open("read.txt", "r") as input:
 
             output.write(line)
 
+#The text file contains : 
+
+My name is Rahul Yeole. Happy Learning !!!
             
