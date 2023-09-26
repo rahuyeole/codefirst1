@@ -1,6 +1,6 @@
 # codefirst1
 
-Code
+CODE:
 
 
 with open("read.txt", "r") as input:
@@ -14,6 +14,5 @@ with open("read.txt", "r") as input:
         for line in input:
 
             output.write(line)
-
 
             
