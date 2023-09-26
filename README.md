@@ -1,6 +1,8 @@
 # codefirst1
 
 Code
+
+
 with open("read.txt", "r") as input:
 
    
