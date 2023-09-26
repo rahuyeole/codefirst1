@@ -1,6 +1,6 @@
 # codefirst1
 
-CODE:
+#CODE:
 
 
 with open("read.txt", "r") as input:
